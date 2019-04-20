@@ -1,2 +1,7 @@
 # hello-world
-Meu primeiro repositório. // Introdução ao Git/GitHub.
+-
+Programador Iniciante
+Nome: Caio da Silva Lima
+Idade: 15
+Linguagens favoritas: Python / (C/C++)
+Cursando  Ensino Médio-Técnico Integrado em Informática.
